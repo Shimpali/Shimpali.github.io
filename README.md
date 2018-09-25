@@ -1,2 +1,2 @@
-# Shimpali.github.io
+# vanilla-js-calendar
 A simple calendar in vanilla JavaScript
